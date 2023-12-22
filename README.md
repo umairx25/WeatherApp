@@ -1,6 +1,6 @@
-# World Weather Information Application
+# WeatherApp
 
-The World Weather Information Application is a Java program that provides real-time weather data for cities around the world using the OpenWeather API. This application allows users to input a city and choose the corresponding country to retrieve weather details such as temperature, humidity, and more. The GUI is designed to make accessing weather information simple and visually appealing.
+WeatherApp is a Java program that provides real-time weather data for cities around the world using the OpenWeather API. This application allows users to input a city and choose the corresponding country to retrieve weather details such as temperature, humidity, and more. The GUI is designed to make accessing weather information simple and visually appealing.
 
 ## Table of Contents
 
@@ -16,7 +16,7 @@ The World Weather Information Application is a Java program that provides real-t
 
 ## Introduction
 
-The World Weather Information Application leverages the OpenWeather API to fetch real-time weather data for cities across the globe. This Java program incorporates a graphical user interface (GUI) to provide users with an intuitive platform to access weather information for their desired location. With features like data retrieval, user-friendly interface, and real-time updates, this application serves as a convenient tool to stay informed about the weather conditions around the world.
+WeatherApp leverages the OpenWeather API to fetch real-time weather data for cities across the globe. This Java program incorporates a graphical user interface (GUI) to provide users with an intuitive platform to access weather information for their desired location. With features like data retrieval, user-friendly interface, and real-time updates, this application serves as a convenient tool to stay informed about the weather conditions around the world.
 
 ## Features
 
